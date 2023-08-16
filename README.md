@@ -14,7 +14,6 @@ Spring과 Java를 사용한 게시판 서비스
 - 개발 언어: Java 11, javascript, css, html
 - 개발 환경: Spring 5.0.7, jdk 11, IntelliJ IDEA 2023.1.1 ,Windows 10
 - 데이터베이스: MySQL
-- 형상관리: GitHub
 
 
 ## 2. 요구사항
